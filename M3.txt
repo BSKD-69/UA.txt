@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281674;FBDM/{density=2.0,width=720,height=1344};FBLC/in_ID;FBRV/0;FBCR/Idea - Be Safe;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6A;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 12; SM-A037U1 Build/SP1A.210812.016) [FBAN/Orca-Android;FBAV/452.0.0.50.109;FBPN/com.facebook.orca;FBLC/en_US;FBBV/584563264;FBCR/IT&amp;amp-E;FBMF/samsung;FBBD/samsung;FBDV/SM-A037U1;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1471};FB_FW/1;]
